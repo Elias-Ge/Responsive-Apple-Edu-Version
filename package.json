@@ -1,0 +1,19 @@
+{
+  "name": "reactrouting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elias-Ge/Responsive-Apple-Edu-Version.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elias-Ge/Responsive-Apple-Edu-Version/issues"
+  },
+  "homepage": "https://github.com/Elias-Ge/Responsive-Apple-Edu-Version#readme"
+}
